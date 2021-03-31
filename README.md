@@ -8,10 +8,10 @@ console-script `pysieve` to run the main executable. (requires that the python i
 
 ## Benchmarks
 
-|Passes|Time|Avg|Limit|Count|Valid|
-|---|-----|---|---|---|---|
-|1737|5.00086|0.002879|1000000|78498|True|
-|782|5.0015|0.006395|1000000|78498|True|
+|Source|Passes|Time|Avg|Limit|Count|Valid|
+|---|---|-----|---|---|---|---|
+Lenovo x1-Carbon i7-9750H|1737|5.00086|0.002879|1000000|78498|True|
+Google Colab|782|5.0015|0.006395|1000000|78498|True|
 
 ## installation
 
